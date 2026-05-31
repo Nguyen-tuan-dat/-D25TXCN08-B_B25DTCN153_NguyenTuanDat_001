@@ -1,4 +1,4 @@
--- PHẦN 1: TẠO CSDL VÀ CÁC BẢNG
+-- PHẦN 1:
 CREATE DATABASE LiveStudioDB;
 USE LiveStudioDB;
 
